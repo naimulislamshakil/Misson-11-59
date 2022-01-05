@@ -1,0 +1,47 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+h1.red{
+    color:red;
+}
+.bor{
+    border-left:7px solid red ;
+    padding-left: 10px;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+div img{
+    width: 100%;
+}
+.dis{
+    display: flex;
+}
+.flax{
+    width: 40%;
+    padding-left: 70px;
+}
+span{
+    color: red;
+}
+.img-size{
+    width: 100px;
+}
+.flax2{
+    width: 30%;
+    margin: 2%;
+    box-shadow: 10px 10px 50px gray;
+    padding: 10px;
+    background-color: violet;
+    border-radius: 20px;
+}
+#aline{
+    text-align: center;
+    margin-top: 50px;
+}
